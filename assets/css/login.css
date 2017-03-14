@@ -1,0 +1,52 @@
+body {
+            background:url(http://img.mota.ru/upload/wallpapers/2011/08/24/08/04/27339/gqFR4eB3zo-preview.jpg);
+            background-repeat:no-repeat;
+            background-size:cover;
+            
+        }
+        form{
+            padding-top:3%;
+        }
+        p {
+            color:#FF5154;
+            font-family: 'Rubik', sans-serif;
+            font-size:125%;
+        }
+        p:hover{
+            color:#7F2CCB;
+        }
+        button{
+            padding:1.5%;
+            background-color:#483D8B;
+            font-family: 'Raleway', sans-serif;
+            font-size:75%;
+            color:#FFFFFF;
+            border:1.5px inset darkblue;
+            border-radius: 50px;
+            padding-left:4%;
+            padding-right:4%;
+        }
+        button:hover{
+            background-color:#FF5154;
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        }
+        nav{
+            background-color:#17BEBB;
+            padding:1%;
+        }
+        *{
+            margin:0;
+            padding:0;
+        }
+        aside{
+            display:fixed;
+            background-color:;
+            margin-left:25%;
+            margin-right:25%;
+            padding-bottom:15%;
+            padding-top:5%;
+        }
+        li{
+            font-family: 'Rubik', sans-serif;
+            font-size:130%;
+        }
